@@ -1,4 +1,4 @@
-Problem statement:
+<b>Problem statement:</b>
 Implementation of automated multi city price prediction machine learning model for the apartments listed on Airbnb.
 
 Description:
